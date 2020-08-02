@@ -19,3 +19,9 @@ const path = require('path');
 // Get everything after the last slash
 const sourceFileName = path.basename(history[0]);
 ```
+
+In order to run `npm run production` on Windows, you will need to tell NPM to use a unix-like shell (I'm using git bash):
+
+```sh
+npm config set script-shell "C:\\Program Files\\Git\\bin\\bash.exe"
+```
