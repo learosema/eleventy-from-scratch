@@ -4,7 +4,7 @@ I'm taking the course [Learn Eleventy from scratch](https://piccalil.li/course/l
 
 ## Progress
 
-I finished lesson 20.
+I finished lesson 21.
 
 ## Remarks
 
@@ -20,7 +20,8 @@ const path = require('path');
 const sourceFileName = path.basename(history[0]);
 ```
 
-In order to run `npm run production` on Windows, you will need to tell NPM to use a unix-like shell (I'm using git bash):
+In order to run `npm run production` on Windows, you may need to tell NPM to use a unix-like shell (I'm using git bash):
+(Or use `cross-env`)
 
 ```sh
 npm config set script-shell "C:\\Program Files\\Git\\bin\\bash.exe"
