@@ -78,6 +78,9 @@ h4 {
 @import 'blocks/nav';
 @import 'blocks/button';
 @import 'blocks/skip-link';
+@import 'blocks/cta';
+@import 'blocks/featured-work';
+@import 'blocks/studio-feed';
 
 // Import utilities
 @import 'utilities/dot-shadow';
@@ -88,3 +91,4 @@ h4 {
 @import 'utilities/site-wrap';
 @import 'utilities/visually-hidden';
 @import 'utilities/wrapper';
+@import 'utilities/headline';
