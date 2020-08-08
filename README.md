@@ -4,7 +4,7 @@ I'm taking the course [Learn Eleventy from scratch](https://piccalil.li/course/l
 
 ## Progress
 
-I finished lesson 30.
+I finished all lessons.
 
 ## Remarks
 
